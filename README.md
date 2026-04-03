@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+useful links:
+https://gprm.itsvg.in/
 -->
 # 💫 About Me:
 🎓 I studied Computer Science at UiTM Shah Alam<br>🔭 I'm currently working with and learning the MERN Stack Development
